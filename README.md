@@ -125,4 +125,7 @@ The kernel automatically runs tests on boot:
 - Test cursor positioning
 - Display multiple lines
 
-All tests complete successfully if you see the welcome message and colored output.
+All tests complete successfully.
+
+
+![](https://github.com/n2-aldhahi/assignment2/blob/main/Screenshot%202025-12-05%20163734.png)
